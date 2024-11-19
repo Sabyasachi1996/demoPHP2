@@ -1,3 +1,3 @@
 <?php 
-echo "pp";
+echo "main";
 ?>
