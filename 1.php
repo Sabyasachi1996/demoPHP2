@@ -1,3 +1,3 @@
 <?php 
-echo "file 1 from remote repo";
+echo "file 1 from local secondary repo";
 ?>
